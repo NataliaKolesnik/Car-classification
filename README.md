@@ -8,6 +8,7 @@
 
 **Данные:** 
 Находятся https://www.kaggle.com/competitions/sf-dl-car-classification/data
+
     1. train.csv - обучающая выборка
     2. train.zip - картинки к обучающей выборке
     3. sample-submission.csv - тестовая выборка
